@@ -23,3 +23,13 @@ streamlit run streamlit_app.py
 ```
 http://localhost:8501
 ```
+
+## For Port Forwarding
+
+**Use ngrok for port forwarding**
+
+*Install ngrok into your system, then run the following command:*
+
+```
+ngrok http <desired_url>
+```
